@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.banner {
+    position: fixed;
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 20px;
+    height: auto;
+    width: 300px;
+    top: 70%;
+    left: 20;
+    right: 0;
+    bottom: 20;
+}
+
+.banner_title {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 20px;
+    text-align: center;
+    font-family: 'Poppins';
+}
+
+h5 {
+    font-size: 15px;
+    color: #1a1a1a;
+    text-align: center;
+}
+
+.banner_content {
+    padding-top: 20px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.lstbutton {
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    padding: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    width: 115px;
+    height: 40px;
+}
+
+.btn_accept {
+    background-color: #cacafb;
+    border: 1px solid #cacafb;
+    border-radius: 10px;
+    transition: .3s ease-in-out;
+}
+
+.btn_accept:hover {
+    background-color: #a1a1f8;
+    text-decoration: underline;
+    transition: .3s ease-in-out;
+    scale: 1.1;
+}
+
+.btn_refuse {
+    background-color: transparent;
+    border: 1px solid #a1a1f8;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+
+.btn_refuse:hover {
+    text-decoration: underline;
+    transition-duration: 0.4s;
+}
