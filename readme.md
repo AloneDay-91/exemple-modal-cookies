@@ -6,10 +6,9 @@
   <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>
 </p>
 
-Faire clignoter Les LED Branchées sur les pattes 12 et 13 de la carte ARDUINO à une
-fréquence de 0.5Hz. Lorsqu’une LED est allumée, l’autre est éteinte.
+This is an example of modal cookies. This is the full-width version. If you want the small version, **[Click here](https://github.com/AloneDay-91/exemple-modal-cookies-v2 "exemple-modal-cookies-v2")**
 
 ## Installation
 ```bash
-git clone https://github.com/AloneDay-91/Blink-2leds
+git clone https://github.com/AloneDay-91/exemple-modal-cookies
 ```
