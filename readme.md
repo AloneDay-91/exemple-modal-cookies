@@ -6,8 +6,8 @@
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/>
 </p>
 
-<p>This is an example of modal cookies. This is the full-width version.</p>
-<p>If you want the small version, <a href="https://github.com/AloneDay-91/exemple-modal-cookies-v2">Click here</a></p>
+<p>This is an example of modal cookies. This is the small version.</p>
+<p>If you want the full-width version, <a href="https://github.com/AloneDay-91/exemple-modal-cookies-v2">Click here</a></p>
 
 ## Installation
 ```bash
